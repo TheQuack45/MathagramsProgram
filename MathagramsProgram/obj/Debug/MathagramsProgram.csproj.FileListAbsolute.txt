@@ -10,3 +10,6 @@ C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\MathagramsProgra
 C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\MathagramsProgram\MathagramsProgram\bin\Debug\MathagramsProgram.exe
 C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\MathagramsProgram\MathagramsProgram\bin\Debug\MathagramsProgram.pdb
 C:\Users\dquackenbush2019\Documents\Visual Studio 2015\Projects\MathagramsProgram\MathagramsProgram\obj\Debug\MathagramsProgram.csprojResolveAssemblyReference.cache
+C:\Users\TheQuack45\Documents\Visual Studio 2015\Projects\MathagramsProgram\MathagramsProgram\bin\Debug\MathagramsProgram.exe.config
+C:\Users\TheQuack45\Documents\Visual Studio 2015\Projects\MathagramsProgram\MathagramsProgram\obj\Debug\MathagramsProgram.exe
+C:\Users\TheQuack45\Documents\Visual Studio 2015\Projects\MathagramsProgram\MathagramsProgram\obj\Debug\MathagramsProgram.pdb
